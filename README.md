@@ -1,6 +1,6 @@
 # Microsoft Teams BOT
 
-This bot will attend the online classes (or meetings) held on Microsoft teams, according to the given timetable by you.
+This bot will attend the online classes (or meetings) held on Microsoft teams, according to the given timetable by you and you will get the nortification for all the classes on Discord Have fun and Never miss any class.
 
 
 ## Configure
