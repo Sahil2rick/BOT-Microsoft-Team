@@ -27,3 +27,8 @@ There are few things you need to configure before running this bot.
 
 Written on Python3.
 With Love Sahil Saini
+## Want Help In Installing?
+
+Go to https://sahilsaini.co
+or Send me E-mail - sahil@sahilsaini.co
+or you know where I will be (10 magical numbers)
