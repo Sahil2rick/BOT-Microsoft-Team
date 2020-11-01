@@ -2,9 +2,9 @@
 
 This bot will attend the online classes (or meetings) held on Microsoft teams, according to the given timetable by you and you will get the nortification for all the classes on Discord Have fun and Never miss your class.
 ## Notifications on Discord 
-- !.[This is how discord channel looks like].(https://i.imgur.com/icG7NzB.png) 
-- !.[This is how discord channel looks like].(https://i.imgur.com/aeygXS4.png) 
 
+- ![This is how list view looks like](https://i.imgur.com/icG7NzB.png)
+- ![This is how list view looks like](https://i.imgur.com/aeygXS4.png)
 ## Configure
 
 There are few things you need to configure before running this bot.
